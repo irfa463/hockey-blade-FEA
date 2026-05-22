@@ -40,7 +40,7 @@ Vulcanized rubber puck: E = 7 MPa, ν = 0.48
 
 ## Authors
 
-**Irfan Irfan**, Muhammad Uzair 
+**Irfan Irfan**, Muhammad Uzair,  
 Supervisor: Prof. Hemantha Yeddu, LUT University
 
 Portfolio: [irfan.research](https://irfa463.github.io)
