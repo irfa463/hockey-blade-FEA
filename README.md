@@ -4,7 +4,7 @@
 > and fatigue loading — Hashin criteria + BK cohesive damage in Abaqus/Standard.
 
 ![Damage contour](damage_contour.png)
-
+![boundry condition](boundry.png)
 ## Overview
 
 Group project for *BK90C2701 Modelling of Metallic and Composite Materials*,  
