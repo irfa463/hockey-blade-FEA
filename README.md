@@ -3,8 +3,9 @@
 > FE analysis of a CFRP ice hockey blade under slap shot, pass impact,  
 > and fatigue loading — Hashin criteria + BK cohesive damage in Abaqus/Standard.
 
-![Damage contour](damage_contour.png)
 ![boundry condition](boundry.png)
+![Damage contour](damage_contour.png)
+
 ## Overview
 
 Group project for *BK90C2701 Modelling of Metallic and Composite Materials*,  
